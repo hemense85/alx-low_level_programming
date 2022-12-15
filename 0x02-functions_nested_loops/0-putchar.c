@@ -10,9 +10,9 @@ int main(void)
 _putchar('_');
 _putchar('p');
 _putchar('w');
--putchar('t');
+_putchar('t');
 _putchar('c');
--putchar('h');
+_putchar('h');
 _putchar('a');
 _putchar('r');
 _putchar('\n');
